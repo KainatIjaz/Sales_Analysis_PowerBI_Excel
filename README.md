@@ -1,14 +1,13 @@
 # 📊 Power BI & Excel Sales Analysis - Adventure Works
 
 ## 📌 Project Overview
-This project involves sales analysis using **Power BI** and **Excel**, leveraging data from Adventure Works. The project explores various key insights, customer demographics, and financial metrics.
+This project involves sales analysis using **Power BI** and **Excel**, using data from Adventure Works. The project explores various key insights, customer demographics, and financial metrics.
 
 ## 📂 Files Included
-- **AdventureWorks.xlsx** - The dataset used for analysis.
-- **ASS3_EDA_0038_Kainat.xlsm** - Excel dashboard with data exploration & EDA.
-- **ASSi4.pbix** - Power BI dashboard for interactive visualization.
-- **Assignment 4_report.docx** - Key insights and findings.
-- **Question Paper.docx** - Assignment questions and requirements.
+- **AdventureWorks.xlsx** - The dataset used for Excel analysis.
+- **AdventureWorksDW_PBI.xlsx** - The dataset used for PowerBI analysis.
+- **Sales_Analysis_Excel.xlsm** - Excel dashboard with data exploration & EDA.
+- **Sales_Analysis_PBI.pbix** - Power BI dashboard for interactive visualization.
 
 ## 📈 Visualizations
 ### **Power BI Dashboard**
@@ -41,8 +40,8 @@ This project involves sales analysis using **Power BI** and **Excel**, leveragin
   - Weekdays contribute **86%** of the total profit.
 
 ## 🚀 How to Use
-1. **Power BI:** Open `ASSi4.pbix` in Power BI to interact with the dashboard.
-2. **Excel:** Open `ASS3_EDA_0038_Kainat.xlsm` to explore data and insights.
+1. **Power BI:** Open `Sales_Analysis_PBI.pbix` in Power BI to interact with the dashboard.
+2. **Excel:** Open `Sales_Analysis_Excel.xlsm` to explore data and insights.
 3. **Dataset:** Use `AdventureWorks.xlsx` to analyze data further.
 
 ## 📜 Summary
